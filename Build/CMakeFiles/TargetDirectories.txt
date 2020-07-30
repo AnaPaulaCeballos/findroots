@@ -1,0 +1,4 @@
+C:/Users/Maestro/Desktop/findroots/Build/CMakeFiles/findroots.dir
+C:/Users/Maestro/Desktop/findroots/Build/CMakeFiles/INSTALL.dir
+C:/Users/Maestro/Desktop/findroots/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Maestro/Desktop/findroots/Build/CMakeFiles/ZERO_CHECK.dir
